@@ -1,0 +1,13 @@
+# Ignore large data files
+*.csv
+*.pkl
+
+# Ignore outputs
+outputs/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
