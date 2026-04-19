@@ -1,6 +1,6 @@
-# 📊 Customer Churn Analysis & Retention Dashboard
+#  Customer Churn Analysis & Retention Dashboard
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project focuses on analyzing customer behavior to identify patterns leading to churn (customer leaving the service). The goal is to help businesses **predict churn and take proactive retention actions**.
 
@@ -8,7 +8,7 @@ The project combines **data analysis, machine learning, and interactive visualiz
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze customer data to understand churn patterns
 * Identify high-risk customers
@@ -17,7 +17,7 @@ The project combines **data analysis, machine learning, and interactive visualiz
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Python**
 * **Pandas, NumPy**
@@ -27,7 +27,7 @@ The project combines **data analysis, machine learning, and interactive visualiz
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Customer_Churn_and_Retention_analysis/
@@ -42,7 +42,7 @@ Customer_Churn_and_Retention_analysis/
 
 ---
 
-## 📊 Key Analysis Performed
+##  Key Analysis Performed
 
 * Exploratory Data Analysis (EDA)
 * Missing value handling
@@ -53,7 +53,7 @@ Customer_Churn_and_Retention_analysis/
 
 ---
 
-## 🤖 Machine Learning
+##  Machine Learning
 
 * Logistic Regression
 * Random Forest
@@ -67,7 +67,7 @@ Customer_Churn_and_Retention_analysis/
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 * Customers with **low tenure** are more likely to churn
 * **High monthly charges** increase churn probability
@@ -76,7 +76,7 @@ Customer_Churn_and_Retention_analysis/
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 * Interactive filters
 * Churn analysis visualization
@@ -85,7 +85,7 @@ Customer_Churn_and_Retention_analysis/
 
 ---
 
-## 🖥️ How to Run the Project
+##  How to Run the Project
 
 ### 1. Clone the repository
 
@@ -108,14 +108,14 @@ streamlit run dashboard/app.py
 
 ---
 
-## 📌 Note
+##  Note
 
 Due to GitHub file size limitations, large datasets are not included.
 You can use any customer churn dataset (e.g., Telco dataset) to run the project.
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 * Deploy dashboard online
 * Add real-time prediction feature
@@ -124,7 +124,7 @@ You can use any customer churn dataset (e.g., Telco dataset) to run the project.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Atasi Kole**
 
