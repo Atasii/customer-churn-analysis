@@ -1,5 +1,9 @@
 # Customer Churn Prediction & Retention Strategy
 
+## 🎯 Problem Statement
+
+A telecommunications company is losing 26.5% of customers annually. This project identifies why customers leave and how to stop them.
+
 ## 📊 Live Dashboard Preview
 
 ![Dashboard 1](screenshots/dashboard1.png)
@@ -8,10 +12,6 @@
 ![Dashboard 4](screenshots/dashboard4.png)
 ![Dashboard 5](screenshots/dashboard5.png)
 ![Dashboard 6](screenshots/dashboard6.png)
-
-## 🎯 Problem Statement
-
-A telecommunications company is losing 26.5% of customers annually. This project identifies why customers leave and how to stop them.
 
 ## 📈 Key Results
 
