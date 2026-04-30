@@ -25,10 +25,6 @@ A telecommunications company is losing 26.5% of customers annually. This project
 - Streamlit (Interactive Dashboard)
 - Jupyter Notebooks
 
-## 📁 Project Structure
-
-[Your folder structure]
-
 ## 🚀 How to Run
 
 ```bash
