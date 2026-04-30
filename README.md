@@ -2,7 +2,12 @@
 
 ## 📊 Live Dashboard Preview
 
-[Insert your screenshots here]
+![Dashboard 1](screenshots/dashboard1.png)
+![Dashboard 2](screenshots/dashboard2.png)
+![Dashboard 3](screenshots/dashboard3.png)
+![Dashboard 4](screenshots/dashboard4.png)
+![Dashboard 5](screenshots/dashboard5.png)
+![Dashboard 6](screenshots/dashboard6.png)
 
 ## 🎯 Problem Statement
 
